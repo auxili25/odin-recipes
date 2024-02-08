@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This project was done with the purpose of learning how to use GitHub and at the same time everything related to gastronomy, to improve presentation skills, know and value diversity through food
 
 ![screenshot](./app_screenshot.png)
 
@@ -21,8 +21,16 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start, we enter our browser and place github to enter my repositories, copy the code, enter the local disk c and then look for the odin folder, enter it and then open git bash and make a git clone
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
 
 
 To get a local copy up and running follow these simple example steps.
@@ -43,17 +51,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Maria Auxiliadora Maldonado Gelvez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@auxili25](https://github.com/auxili25)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,9 +68,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- I thank Professor Aristides for his teaching and his time
 
 ## 📝 License
 
