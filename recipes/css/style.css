@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(219, 249, 249);
+    font-family: "comic sans MS";
+}
+
+p {
+    text-align: justify;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
