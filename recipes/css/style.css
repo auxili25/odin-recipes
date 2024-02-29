@@ -11,3 +11,25 @@ p {
 h1 {
     text-align: center;
 }
+
+li {
+ margin-top: auto;
+ font-family: "comic sans MS", 'Courier New', Courier, monospace;
+ 
+
+}
+
+.title {
+  background: rgb(241, 141, 186);
+  font-size: 16px;
+  padding: 8px;
+  margin-top: auto;
+  margin-bottom: 8px;
+}
+
+.list {
+   background:rgb(244, 65, 247);
+   margin-bottom: 8px;
+   padding: 8px;
+
+}
